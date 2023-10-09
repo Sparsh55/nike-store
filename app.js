@@ -83,7 +83,7 @@ let choosenProduct = products[0];
 
 const currentProductImg = document.querySelector(".productImg");
 const currentProductTitle = document.querySelector(".productTitle");
-const currentProductPrice = "INR" + document.querySelector(".productPrice");
+const currentProductPrice =  document.querySelector(".productPrice");
 const currentProductColors = document.querySelectorAll(".color");
 const currentProductSizes = document.querySelectorAll(".size");
 
@@ -94,10 +94,10 @@ menuItems.forEach((item, index) => {
 
     //change the choosen product
     choosenProduct = products[index];
-
+    
     //change texts of currentProduct
     currentProductTitle.textContent = choosenProduct.title;
-    currentProductPrice.textContent = choosenProduct.price;
+    currentProductPrice.textContent = "INR" + choosenProduct.price;
     currentProductImg.src = choosenProduct.colors[0].img;
 
     //assing new colors
