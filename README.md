@@ -2,4 +2,4 @@
 a simple e commerce sports shoes webpage with checkout functionality 
 
 # DEMO LINK
-[nike-store]https://652128b483e18d5f28facc34--boisterous-sunburst-6acf6f.netlify.app/
+[nike-store](https://6523882257a00f370ae990d1--superb-moonbeam-8a3734.netlify.app/#product)
