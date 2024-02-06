@@ -10,4 +10,4 @@ Html,Css and Js.
 ![image](https://github.com/Sparsh55/nike-store/assets/111353842/aa90e162-c07d-4d6d-93c2-11a5b473b0c5)
 
 # DEMO LINK
-[nike-store](https://6523882257a00f370ae990d1--superb-moonbeam-8a3734.netlify.app/#product)
+[nike-store](https://superb-moonbeam-8a3734.netlify.app/)
